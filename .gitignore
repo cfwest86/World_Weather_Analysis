@@ -1,7 +1,7 @@
-# Adding config.py file.
-config.py
-API_practice.ipynb
-random_numbers.ipynb
+    # Adding  files not to be tracked.
+    config.py
+    API_practice.ipynb
+    random_numbers.ipynb
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
